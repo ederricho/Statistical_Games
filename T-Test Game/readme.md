@@ -1,4 +1,8 @@
-The T-Test Game
+# <u>The T-Test Game<u>
+
+We are gamifying the following hypothesis test given two samples:
+
+$$H_0: \mu_1 = \mu_2, H_a: \mu_1 \neq \mu_2$$
 
 Basic Concept:
 
