@@ -1,8 +1,8 @@
 # <u>The T-Test Game<u>
 
-We are gamifying the following hypothesis test given two samples:
+We are gamifying the following hypothesis test given two samples that come from the same population:
 
-$$H_0: \mu_1 = \mu_2, H_a: \mu_1 \neq \mu_2$$
+$$H_0: \bar{x}_1 = \bar{x}_2, H_a: \bar{x}_1 \neq \bar{x}_2$$
 
 Basic Concept:
 
